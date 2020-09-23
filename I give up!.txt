@@ -1,0 +1,24 @@
+So you can't figure it out?
+
+Well, sit back, and I'll explain.
+
+First, ANY number minus the sum of its digits 
+is ALWAYS a multiple of 9.
+
+Example:
+57 - 12 = 45
+99 - 18 = 81
+13 - 4  = 9
+23 - 5  = 18
+
+See?
+
+So all the program has to do is assign the 
+same symbol to all multiples of nine! The
+other numbers are there just to confuse and
+confound you.
+
+You always get the symbol that is assigned to
+multiples of 9.
+
+Cool, eh?
